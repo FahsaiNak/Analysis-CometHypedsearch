@@ -1,0 +1,8 @@
+name: comethyped
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pandas
+    - matplotlib
+    - numpy
