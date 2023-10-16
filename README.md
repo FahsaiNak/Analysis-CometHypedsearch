@@ -43,6 +43,8 @@ A program analyzes and visualizes hybrid peptides from tandem mass spectrometry 
     - Name of the output file (--outfile)
 
 ### Usage Example
+
+The result will be stored in "results" folder in example/outputs.
 ```sh
    cd example/run
    ./hybrid_analysis.sh
